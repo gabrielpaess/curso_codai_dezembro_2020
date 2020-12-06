@@ -1,5 +1,5 @@
-var nome = "Gabriel Pinheiro";
-var cargo = "CTO - Growdev";
+var nome = "Gabriel Paes Pinheiro";
+var cargo = "Developer";
 
 var nomeHtml = document.getElementById("nome-no-html");
 var cargoHtml = document.getElementById("cargo-no-html");
